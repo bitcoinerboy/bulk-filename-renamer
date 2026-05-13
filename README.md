@@ -46,8 +46,8 @@ Bulk Filename Renamer focuses on speed and simplicity.
 
 Get the app here:
 
-- Gumroad: [ADD_LINK](https://gallonlabs.gumroad.com/l/bulk-filename-renamer-mac)
-- itch.io: [ADD_LINK](https://tinyutilitylab.itch.io/bulk-filename-renamer)
+- Gumroad: [CLICK HERE](https://gallonlabs.gumroad.com/l/bulk-filename-renamer-mac)
+- itch.io: [CLICK HERE](https://tinyutilitylab.itch.io/bulk-filename-renamer)
 
 ## Screenshots
 
